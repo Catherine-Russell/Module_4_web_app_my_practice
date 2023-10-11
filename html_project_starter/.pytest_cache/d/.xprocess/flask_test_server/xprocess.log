@@ -1,0 +1,139 @@
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4737
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 792-530-648
+127.0.0.1 - - [10/Oct/2023 16:50:51] "GET /emoji HTTP/1.1" 200 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4413
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 792-530-648
+127.0.0.1 - - [10/Oct/2023 16:50:51] "GET /books HTTP/1.1" 200 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4396
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 792-530-648
+127.0.0.1 - - [10/Oct/2023 16:50:52] "GET /books HTTP/1.1" 200 -
+127.0.0.1 - - [10/Oct/2023 16:50:52] "GET /books/3 HTTP/1.1" 200 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4314
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 792-530-648
+127.0.0.1 - - [10/Oct/2023 16:50:53] "GET /books HTTP/1.1" 200 -
+127.0.0.1 - - [10/Oct/2023 16:50:53] "GET /books/new HTTP/1.1" 200 -
+127.0.0.1 - - [10/Oct/2023 16:50:53] "[32mPOST /books HTTP/1.1[0m" 302 -
+127.0.0.1 - - [10/Oct/2023 16:50:53] "GET /books/6 HTTP/1.1" 200 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4890
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 792-530-648
+127.0.0.1 - - [10/Oct/2023 16:50:53] "GET /books HTTP/1.1" 200 -
+127.0.0.1 - - [10/Oct/2023 16:50:54] "GET /books/new HTTP/1.1" 200 -
+127.0.0.1 - - [10/Oct/2023 16:50:54] "[31m[1mPOST /books HTTP/1.1[0m" 400 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4631
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 792-530-648
+127.0.0.1 - - [10/Oct/2023 16:50:54] "GET /books HTTP/1.1" 200 -
+127.0.0.1 - - [10/Oct/2023 16:50:54] "GET /books/1 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Oct/2023 16:50:54] "[32mPOST /books/1/delete HTTP/1.1[0m" 302 -
+127.0.0.1 - - [10/Oct/2023 16:50:54] "GET /books HTTP/1.1" 200 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4070
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 792-530-648
+127.0.0.1 - - [10/Oct/2023 17:03:07] "GET /emoji HTTP/1.1" 200 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4879
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 792-530-648
+127.0.0.1 - - [10/Oct/2023 17:16:41] "GET /emoji HTTP/1.1" 200 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4499
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 792-530-648
+127.0.0.1 - - [10/Oct/2023 17:16:42] "[33mGET /goodbye HTTP/1.1[0m" 404 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4984
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 792-530-648
+127.0.0.1 - - [10/Oct/2023 17:18:30] "GET /emoji HTTP/1.1" 200 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4693
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 792-530-648
+127.0.0.1 - - [10/Oct/2023 17:18:31] "GET /goodbye HTTP/1.1" 200 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4513
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 792-530-648
+127.0.0.1 - - [10/Oct/2023 17:20:03] "GET /emoji HTTP/1.1" 200 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4122
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 792-530-648
+127.0.0.1 - - [10/Oct/2023 17:20:04] "GET /goodbye HTTP/1.1" 200 -

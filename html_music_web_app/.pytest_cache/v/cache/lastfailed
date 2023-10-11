@@ -1,0 +1,7 @@
+{
+  "tests/test_app.py::test_get_all_albums[chromium]": true,
+  "tests/test_app.py::test_get_all_albums": true,
+  "tests/test_app.py::test_post_albums": true,
+  "tests/test_app.py::test_get_all_artists": true,
+  "tests/test_app.py::test_post_artist": true
+}
